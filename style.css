@@ -1,0 +1,89 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.selection {
+    text-align: center;
+}
+
+.h1 {
+        color: rgb(242, 7, 144);
+        width: 300px;
+        height: 50px;
+        box-shadow: 20px 15px 20px  rgb(55, 0, 255);
+        text-shadow:10px 10px 5px rgb(9, 209, 244)  ;
+        margin: auto;
+        margin-top: 50px;
+}
+
+.h2 {
+    color: rebeccapurple;
+    width: 300px;
+    height: 50px;
+    box-shadow: 20px 15px 20px  rgb(104, 92, 148);
+    text-shadow:10px 10px 5px rgb(157, 215, 24)  ;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.h3 {
+    color: rgb(7, 35, 129);
+    width: 300px;
+    height: 50px;
+    box-shadow: 20px 15px 20px  rgb(1, 1, 1);
+    text-shadow:10px 10px 5px rgb(117, 18, 222)  ;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.h4 {
+    color: rgba(244, 1, 98, 0.884);
+    width: 300px;
+    height: 50px;
+    box-shadow: 20px 15px 20px  rgb(246, 244, 244);
+    text-shadow:10px 10px 5px rgb(30, 4, 57)  ;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.h5 {
+    color: rgb(7, 35, 129);
+    width: 300px;
+    height: 50px;
+    box-shadow: 20px 15px 20px  rgb(1, 1, 1);
+    text-shadow:10px 10px 5px rgb(117, 18, 222)  ;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.h6 {
+    color: rgb(255, 0, 123);
+    width: 300px;
+    height: 50px;
+    box-shadow: 20px 15px 20px  rgb(0, 250, 38);
+    text-shadow:10px 10px 5px rgb(187, 223, 26)  ;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.h7 {
+    color: red;
+    width: 300px;
+    height: 50px;
+    box-shadow: 20px 15px 20px burlywood;
+    text-shadow:10px 10px 5px blue;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.h8 {
+    color: rgb(7, 35, 129);
+    width: 300px;
+    height: 50px;
+    box-shadow: 20px 15px 20px plum;
+    text-shadow:10px 10px 5px gold  ;
+    margin: auto;
+    margin-top: 30px;
+}
