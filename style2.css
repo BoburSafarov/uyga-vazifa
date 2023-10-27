@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.img1 {
+    box-shadow: yellow 19px 38px, rgba(238, 255, 5, 0.22) 0px 15px 12px;
+    margin: 60px 30px 20px 60px;
+}
+
+.img2 {
+    box-shadow: blue 19px 38px rgb(38, 57, 77) 0px 20px 30px -10px;
+    margin: 60px 30px 30px 60px;
+}
