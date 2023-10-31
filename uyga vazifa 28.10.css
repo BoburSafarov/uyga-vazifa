@@ -31,7 +31,7 @@ ul {
     position: fixed;
     width: 45%;
     height: 20px;
-    right: 2px; 
+    right: 100px; 
     margin-top: 60px;
     top: 0;
  }
@@ -42,8 +42,8 @@ ul {
     position: fixed;
     width: 45%;
     height: 20px;
-    right: 2px; 
-    margin-top: 240px;
+    right: 100px; 
+    margin-top: 260px   ;
     top: 0;
 }
 
